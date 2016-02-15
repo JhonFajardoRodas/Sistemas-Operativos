@@ -1,0 +1,16 @@
+>>>>>>>>>>< [fsalida]
+Error: command does not exist 
+>>>>>>>>>>< [ls
+]
+>>>>>>>>>>< [cat fsalida
+]
+>>>>>>>>>>< [``
+]
+Error: command does not exist 
+>>>>>>>>>>< [ls
+]
+>>>>>>>>>>< [fsaida
+]
+Error: command does not exist 
+>>>>>>>>>>< [cat fsalida
+]
